@@ -1,0 +1,42 @@
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "01b-m7-QWl"; */
+"01b-m7-QWl.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Please select the floor you are currently on"; ObjectID = "8jw-kE-cc1"; */
+"8jw-kE-cc1.text" = "Please select the floor you are currently on";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "L8M-pq-fj1"; */
+"L8M-pq-fj1.normalTitle" = "No";
+
+/* Class = "UIButton"; normalTitle = "Set My Location Manually"; ObjectID = "Lif-gL-fW3"; */
+"Lif-gL-fW3.normalTitle" = "Set My Location Manually";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "QZU-wH-StG"; */
+"QZU-wH-StG.normalTitle" = "Yes";
+
+/* Class = "UILabel"; text = "Select Floor"; ObjectID = "TVA-Rn-FZO"; */
+"TVA-Rn-FZO.text" = "Select Floor";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "ZX1-7E-Dxb"; */
+"ZX1-7E-Dxb.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Sorry, we're having trouble finding your current location."; ObjectID = "atw-25-vOg"; */
+"atw-25-vOg.text" = "Sorry, we're having trouble finding your current location.";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "fKO-wa-Tws"; */
+"fKO-wa-Tws.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "fmJ-8w-LVt"; */
+"fmJ-8w-LVt.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Please select what's nearby so that we can set your current location"; ObjectID = "gqL-FN-d7y"; */
+"gqL-FN-d7y.text" = "Please select what's nearby so that we can set your current location";
+
+/* Class = "UIButton"; normalTitle = "Set My Location Manually"; ObjectID = "lIT-4c-ut6"; */
+"lIT-4c-ut6.normalTitle" = "Set My Location Manually";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "vOi-3Y-xB9"; */
+"vOi-3Y-xB9.placeholder" = "Search";
+
+/* Class = "UIButton"; normalTitle = "Select Location"; ObjectID = "xSI-wO-3DV"; */
+"xSI-wO-3DV.normalTitle" = "Select Location";

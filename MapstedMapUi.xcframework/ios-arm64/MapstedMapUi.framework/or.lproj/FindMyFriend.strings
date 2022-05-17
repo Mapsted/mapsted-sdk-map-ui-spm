@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "15 min"; ObjectID = "0Al-uW-Qer"; */
+"0Al-uW-Qer.text" = "15 min";
+
+/* Class = "UILabel"; text = "Choose for how long will you share your real-time location."; ObjectID = "8TP-ym-p34"; */
+"8TP-ym-p34.text" = "Choose for how long will you share your real-time location.";
+
+/* Class = "UILabel"; text = "Sharing duration"; ObjectID = "Qgf-vn-tqS"; */
+"Qgf-vn-tqS.text" = "Sharing duration";
+
+/* Class = "UILabel"; text = "Share Location"; ObjectID = "aNZ-pR-R5l"; */
+"aNZ-pR-R5l.text" = "Share Location";
+
+/* Class = "UILabel"; text = "6 h"; ObjectID = "fVz-va-e6E"; */
+"fVz-va-e6E.text" = "6 h";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fd0-Ae-eDq"; */
+"fd0-Ae-eDq.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Share Location"; ObjectID = "iS8-vH-jbP"; */
+"iS8-vH-jbP.normalTitle" = "Share Location";
+
+/* Class = "UILabel"; text = "Easily find your friends or family by sharing your real-time location with them."; ObjectID = "lfR-Bw-uTF"; */
+"lfR-Bw-uTF.text" = "Easily find your friends or family by sharing your real-time location with them.";
+
+/* Class = "UIButton"; normalTitle = "Start Sharing"; ObjectID = "qfY-RP-uXc"; */
+"qfY-RP-uXc.normalTitle" = "Start Sharing";

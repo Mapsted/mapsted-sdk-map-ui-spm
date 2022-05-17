@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "Click on the \"Create New Tag\" button to add tags on the map. You can then edit and delete them."; ObjectID = "HU1-Nz-BmH"; */
+"HU1-Nz-BmH.text" = "Click on the \"Create New Tag\" button to add tags on the map. You can then edit and delete them.";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "KqU-df-PhS"; */
+"KqU-df-PhS.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Edit Tag"; ObjectID = "Kvz-Kd-N8N"; */
+"Kvz-Kd-N8N.text" = "Edit Tag";
+
+/* Class = "UITextField"; placeholder = "Enter name"; ObjectID = "QKI-Wz-U7h"; */
+"QKI-Wz-U7h.placeholder" = "Enter name";
+
+/* Class = "UIButton"; normalTitle = "Create New Tag"; ObjectID = "XAh-32-CoO"; */
+"XAh-32-CoO.normalTitle" = "Create New Tag";
+
+/* Class = "UILabel"; text = "|"; ObjectID = "iWt-5u-frG"; */
+"iWt-5u-frG.text" = "|";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "m3E-vB-ntt"; */
+"m3E-vB-ntt.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Show Tags on map"; ObjectID = "qXR-ca-9nd"; */
+"qXR-ca-9nd.text" = "Show Tags on map";
+
+/* Class = "UILabel"; text = "|"; ObjectID = "qYG-h7-2o6"; */
+"qYG-h7-2o6.text" = "|";
+
+/* Class = "UILabel"; text = "My Tags"; ObjectID = "wdZ-RY-mYU"; */
+"wdZ-RY-mYU.text" = "My Tags";

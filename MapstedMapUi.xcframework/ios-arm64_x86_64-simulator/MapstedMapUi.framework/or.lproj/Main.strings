@@ -1,0 +1,60 @@
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "1Hr-YC-s6E"; */
+"1Hr-YC-s6E.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Calibration Compass"; ObjectID = "2nE-Au-5ts"; */
+"2nE-Au-5ts.text" = "Calibration Compass";
+
+/* Class = "UIButton"; normalTitle = "Incorrect Floor"; ObjectID = "4Ae-8E-zDY"; */
+"4Ae-8E-zDY.normalTitle" = "Incorrect Floor";
+
+/* Class = "UISearchBar"; placeholder = "Start Searching ..."; ObjectID = "9If-i6-WVS"; */
+"9If-i6-WVS.placeholder" = "Start Searching ...";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9V0-NG-CPG"; */
+"9V0-NG-CPG.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Audio OFF"; ObjectID = "L3K-Kg-rdS"; */
+"L3K-Kg-rdS.normalTitle" = "Audio OFF";
+
+/* Class = "UIButton"; normalTitle = "Switch Property"; ObjectID = "MFp-KQ-cM5"; */
+"MFp-KQ-cM5.normalTitle" = "Switch Property";
+
+/* Class = "UILabel"; text = "For enhanced positioning, calibrate your Blue Dot's compass. "; ObjectID = "MIJ-2l-Wq2"; */
+"MIJ-2l-Wq2.text" = "For enhanced positioning, calibrate your Blue Dot's compass. ";
+
+/* Class = "UILabel"; text = "Tilt your phone and move it in a figure eight motion multiple times until the accuracy improves."; ObjectID = "MW3-M1-Ter"; */
+"MW3-M1-Ter.text" = "Tilt your phone and move it in a figure eight motion multiple times until the accuracy improves.";
+
+/* Class = "UILabel"; text = "© Mapsted | © OpenStreetMap | © Carto"; ObjectID = "NU2-pl-8xt"; */
+"NU2-pl-8xt.text" = "© Mapsted | © OpenStreetMap | © Carto";
+
+/* Class = "UIButton"; normalTitle = "Incorrect Location"; ObjectID = "U9X-US-0Tu"; */
+"U9X-US-0Tu.normalTitle" = "Incorrect Location";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "UHh-TE-OcJ"; */
+"UHh-TE-OcJ.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Route to New Entity"; ObjectID = "WlG-qJ-BxG"; */
+"WlG-qJ-BxG.normalTitle" = "Route to New Entity";
+
+/* Class = "UIButton"; normalTitle = "Continue Route"; ObjectID = "ZZx-Ty-heo"; */
+"ZZx-Ty-heo.normalTitle" = "Continue Route";
+
+/* Class = "UITabBarItem"; title = "Maps"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Maps";
+
+/* Class = "UILabel"; text = "Compass accuracy:"; ObjectID = "leI-9D-P36"; */
+"leI-9D-P36.text" = "Compass accuracy:";
+
+/* Class = "UIButton"; normalTitle = "Add to Itinerary"; ObjectID = "mK9-JU-Ja0"; */
+"mK9-JU-Ja0.normalTitle" = "Add to Itinerary";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "p81-3d-eZ6"; */
+"p81-3d-eZ6.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "You have requested to navigate to an entity but you already have a route in progress. What would you like to do?"; ObjectID = "zAN-Mm-Zqt"; */
+"zAN-Mm-Zqt.text" = "You have requested to navigate to an entity but you already have a route in progress. What would you like to do?";
+
+/* Class = "UIButton"; normalTitle = "Select Location"; ObjectID = "zhe-aY-e8Q"; */
+"zhe-aY-e8Q.normalTitle" = "Select Location";
